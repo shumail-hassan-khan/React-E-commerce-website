@@ -32,8 +32,8 @@ export const NavItems = () => {
                 <div className="container">
                     <div className="header-top-area">
                         {/* Use Link from react-router-dom */}
-                        <Link to="/signup" className="lab-btn me-3"><span>Create Account</span></Link>
-                        <Link to="/login" className="lab-btn me-3"><span>Log in</span></Link>
+                        <Link to="/signup" className="lab-btn me-3"><span>Create an user Account</span></Link>
+                        <Link to="/login" className="lab-btn me-3"><span>Log in with us</span></Link>
                     </div>
                 </div>
             </div>
